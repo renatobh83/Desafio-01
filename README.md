@@ -1,4 +1,4 @@
-# Desafio-01 Ignie Rocketseat
+# Desafio-01 Ignite Rocketseat
 
 Essa será uma aplicação onde o seu principal objetivo é uma pequena aplicação de atividades a fazer.
 
